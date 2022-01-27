@@ -7,4 +7,5 @@
     position: absolute;
     z-index: -1;
     left: 45%;
+    border-radius: 15%;
 }
