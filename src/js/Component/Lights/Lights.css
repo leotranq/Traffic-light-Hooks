@@ -1,0 +1,10 @@
+.Light{
+    width: 6rem;
+    height: 6rem;
+    border-width: 3px;
+    margin: auto;
+    border-radius: 100%;
+    background-color: #F8D800;
+    position: relative;
+    margin-top: 2rem;
+}

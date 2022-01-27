@@ -1,0 +1,10 @@
+.box{
+    width: 10rem;
+    height: 26rem;
+    border-width: 3px;
+    background-color: #d40c0f;
+    background-image: linear-gradient(132deg, #d40c0f 0%, #f6f725 48%, #00f706 100%);
+    position: absolute;
+    z-index: -1;
+    left: 45%;
+}
